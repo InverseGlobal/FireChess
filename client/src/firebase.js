@@ -2,14 +2,13 @@ import firebase from 'firebase/app';
 import 'firebase/auth';
 import 'firebase/firestore';
 const firebaseConfig = {
-    apiKey: "AIzaSyC6nb2_r-JTRSVs5-9celW69fKCn4fcjUw",
-    authDomain: "firechess0.firebaseapp.com",
-    databaseURL: "https://firechess0-default-rtdb.firebaseio.com",
-    projectId: "firechess0",
-    storageBucket: "firechess0.appspot.com",
-    messagingSenderId: "897411439363",
-    appId: "1:897411439363:web:bca1b67cd29e78e71e6736",
-    measurementId: "G-F7N1H13P3R"
+  apiKey: "AIzaSyC7mybMry1LzLSlpsmXMlN_9LbcPogoW2g",
+  authDomain: "inverseprivate-304e0.firebaseapp.com",
+  projectId: "inverseprivate-304e0",
+  storageBucket: "inverseprivate-304e0.appspot.com",
+  messagingSenderId: "246587992179",
+  appId: "1:246587992179:web:a5a5fc429c9e9c7d2ca206",
+  measurementId: "G-TGV55BWQJW"
 };
 
 firebase.initializeApp(firebaseConfig);
